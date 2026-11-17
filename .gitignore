@@ -1,0 +1,32 @@
+# Dependências e builds
+node_modules/
+dist/
+coverage/
+.vite/
+
+# Configurações locais e segredos
+.env
+.env.*
+!.env.example
+*.local
+
+# Logs e arquivos temporários
+*.log
+*.tsbuildinfo
+.tmp/
+tmp/
+.cache/
+
+# Sistema operacional e editores
+.DS_Store
+._*
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Materiais de referência locais (imagens usadas pelo site ficam em public/brand)
+*.pptx
+*.ppt
+~$*
