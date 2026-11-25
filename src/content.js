@@ -44,5 +44,5 @@ export const partners = [['TOTVS',3],['Microsoft',98],['Slight Solution',99],['S
 export const team = [
  {name:'Alex Montanini',role:'CEO',email:'alex@it2x.com.br',phone:'(11) 97693-5033',tel:'5511976935033',image:112},
  {name:'Franklyn Cervera',role:'Head of Services and Delivery',email:'franklyn.cervera@it2x.com.br',phone:'(11) 98284-5842',tel:'5511982845842',image:113},
- {name:'Heber Almeida',role:'Head of IT Architecture, Security and Operations',email:'heber.almeida@it2x.com.br',phone:'(11) 93009-1362',tel:'5511930091362',image:114},
+ {name:'Heber Almeida',role:'Head Of Technology, Strategy & Innovation',email:'heber.almeida@it2x.com.br',phone:'(11) 93009-1362',tel:'5511930091362',image:114},
 ];
